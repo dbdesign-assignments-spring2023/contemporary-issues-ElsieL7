@@ -1,4 +1,4 @@
-# Consideration of Personal Data Privacy and Utilization in Today's Business
+# Consideration of Personal Data Privacy and Utilization between Company and Consumer
 In this document, I discuss two articles about the issue of data privacy in relation to data collection and utilization made by companies with the consumers in today's business. Since business companies rely on datasets to analyze business objectives in the current market, I present and discuss two different viewpoints on this contemporary concern. 
 
 ## Article 1
