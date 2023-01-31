@@ -1,4 +1,4 @@
-```
+```markdown
 # Consideration of Personal Data Privacy and Utilization between Consumers and Companies
 In this document, I discuss two articles about the issue of data privacy in relation to data collection and utilization made by companies with the consumers. I present and discuss two different viewpoints on this contemporary concern. 
 
